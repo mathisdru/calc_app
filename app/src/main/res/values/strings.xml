@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">calc_app</string>
+    <string name="txt_permiere_valeur" translatable="false">première valeur</string>
+    <string name="txt_operateur" translatable="false">operateur</string>
+    <string name="txt_deuxieme_valeur" translatable="false">deuxième valeur</string>
+    <string name="txt_reponse" translatable="false">reponse</string>
+    <string name="text_bouton_calcul">Calcul</string>
+    <string name="text_bouton_dernier_calcul"> Dernier Calcul</string>
+    <string name="button_1_text" translatable="false">1</string>
+    <string name="button_2_text" translatable="false">2</string>
+    <string name="button_3_text" translatable="false">3</string>
+    <string name="button_4_text" translatable="false">4</string>
+    <string name="button_5_text" translatable="false">5</string>
+    <string name="button_6_text" translatable="false">6</string>
+    <string name="button_7_text" translatable="false">7</string>
+    <string name="button_8_text" translatable="false">8</string>
+    <string name="button_9_text" translatable="false">9</string>
+    <string name="button_0_text" translatable="false">0</string>
+    <string name="button_plus_text" translatable="false">+</string>
+    <string name="button_substract_text" translatable="false">-</string>
+    <string name="button_divide_text" translatable="false">/</string>
+    <string name="button_multiply_text" translatable="false">x</string>
+    <string name="toolbar_nettoyer_text"> Nettoyer</string>
+    <string name="toolbar_calcul"> Fais le calcul</string>
+    <string name="ERROR_SYMBOL">Il y déjà un symbole dans le calcul</string>
+    <string name="ERROR_EMPTY_CALCUL"> Le calcul est vide</string>
+    <string name="ERROR_TOO_LONG"> Le terme ne peut pas depasser 9999</string>
+    <string name="DIVIDE_ZERO">Tu fais une division par zero</string>
+    <string name="BAD_CALCUL">Calcul malformé</string>
 </resources>
