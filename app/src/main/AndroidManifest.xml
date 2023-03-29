@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Calc_app"
         tools:targetApi="31">
         <activity
+            android:name=".calculJeu"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
